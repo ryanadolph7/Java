@@ -1,0 +1,54 @@
+    250 0.005262
+    500 0.019735
+   1000 0.141166
+   2000 1.112127
+   4000 8.821150
+   8000 69.360921
+
+running time compared with N = 1.35470548828125E-10 x N cubed
+
+
+Her Times:    | Compared to mine: 
+	      |
+250 0.016     | x3.0406689
+500 0.46875   | x23.752217
+1000 .375     | x2.6564470
+2000 2.8594   | x2.5710192
+4000 23.25    | x2.6357107
+8000 187.765  | x2.7070707
+
+The code appears to run an average 6.2271 times faster.
+
+I estimate that it would take about 554 second to run ThreeSumDoubling with N = 16000
+
+----------------------------------------------------------------------------------
+
+2a)
+Int sum = 0; // 1
+for(int k = n; k > 0; k/=2) // log k
+	for(int i = 0; i < k; i++) // k/2 
+		sum++; // 1
+
+T(n) = 1 + log(k) * k/2 * 1, while k = n 
+Big O: O(n)
+
+2b)
+Int sum = 0; // 1
+for(int i = 1; i < n; I *= 2) // log(n)
+	for(int j = 0; j < I; j++) 
+		sum++;
+
+T(n) = 1 + log(n) * n * 1 
+Big O: O(n * log(n))
+
+2c) 
+int sum = 0; // 1 
+for(int i = 1; i < n; i*=2) // log(n)
+    for(int j = 0; j < n; j++) // n
+        sum++; // 1 
+
+T(n) = 1 + log(n) * n * 1
+Big O: O(n * log(n))
+
+
+
