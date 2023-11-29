@@ -1,0 +1,98 @@
+48 vertices, 440 edges
+[arizona, arizona, iowa, iowa, arizona, newjersey, arizona, newjersey, iowa, iowa, iowa, newjersey, arizona, arizona, arizona, iowa, iowa, newjersey, newjersey, newjersey, arizona, arizona, iowa, iowa, iowa, arizona, iowa, iowa] : arizona arizona iowa iowa arizona newjersey arizona newjersey iowa iowa iowa newjersey arizona arizona arizona iowa iowa newjersey newjersey newjersey arizona arizona iowa iowa iowa arizona iowa iowa 
+
+[florida, southcarolina, alabama, alabama, tennessee, southcarolina, florida, northcarolina, northcarolina, tennessee] : florida southcarolina alabama alabama tennessee southcarolina florida northcarolina northcarolina tennessee 
+
+[georgia, georgia, minnesota, minnesota, georgia, georgia, georgia, minnesota, minnesota, georgia, minnesota, georgia, minnesota, minnesota, georgia, minnesota, georgia, minnesota, minnesota, georgia] : georgia georgia minnesota minnesota georgia georgia georgia minnesota minnesota georgia minnesota georgia minnesota minnesota georgia minnesota georgia minnesota minnesota georgia 
+
+[northdakota, pennsylvania, ohio, pennsylvania, kentucky, virginia, kentucky, maryland, northdakota, virginia, maryland, northdakota, northdakota, northdakota, northdakota, ohio] : northdakota pennsylvania ohio pennsylvania kentucky virginia kentucky maryland northdakota virginia maryland northdakota northdakota northdakota northdakota ohio 
+
+[oklahoma, oklahoma, oklahoma, oklahoma, oklahoma, oklahoma, oklahoma, oklahoma, oklahoma, oklahoma, oklahoma, oklahoma] : oklahoma oklahoma oklahoma oklahoma oklahoma oklahoma oklahoma oklahoma oklahoma oklahoma oklahoma oklahoma 
+
+[arizona, nevada, southdakota, southdakota, newmexico, southdakota, oregon, southdakota, southdakota, oregon, newmexico, nevada, newmexico, southdakota, newmexico, southdakota, southdakota, newmexico, newmexico, southdakota, southdakota, newmexico, arizona, newmexico, newmexico, southdakota, southdakota, newmexico] : arizona nevada southdakota southdakota newmexico southdakota oregon southdakota southdakota oregon newmexico nevada newmexico southdakota newmexico southdakota southdakota newmexico newmexico southdakota southdakota newmexico arizona newmexico newmexico southdakota southdakota newmexico 
+
+[] : 
+
+[california, utah, missouri, missouri, missouri, missouri, nevada, pennsylvania, pennsylvania, colorado, indiana, missouri, missouri, missouri, missouri, indiana, westvirginia, missouri, utah, nevada, colorado, missouri, missouri, missouri, kentucky, missouri, newmexico, missouri, california, kentucky, michigan, missouri, missouri, newmexico, michigan, westvirginia] : california utah missouri missouri missouri missouri nevada pennsylvania pennsylvania colorado indiana missouri missouri missouri missouri indiana westvirginia missouri utah nevada colorado missouri missouri missouri kentucky missouri newmexico missouri california kentucky michigan missouri missouri newmexico michigan westvirginia 
+
+[southcarolina, southcarolina, southcarolina, southcarolina] : southcarolina southcarolina southcarolina southcarolina 
+
+[arkansas, missouri, colorado, kansas, texas, texas, colorado, texas, oklahoma, newmexico, missouri, texas, utah, texas, colorado, texas, texas, arkansas, newmexico, oklahoma, texas, arizona, kansas, arizona, utah, colorado, texas, texas, texas, texas] : arkansas missouri colorado kansas texas texas colorado texas oklahoma newmexico missouri texas utah texas colorado texas texas arkansas newmexico oklahoma texas arizona kansas arizona utah colorado texas texas texas texas 
+
+[pennsylvania, pennsylvania, pennsylvania, pennsylvania, pennsylvania, pennsylvania, pennsylvania, pennsylvania, pennsylvania, pennsylvania, pennsylvania, pennsylvania] : pennsylvania pennsylvania pennsylvania pennsylvania pennsylvania pennsylvania pennsylvania pennsylvania pennsylvania pennsylvania pennsylvania pennsylvania 
+
+[] : 
+
+[kentucky, kentucky, kentucky, kentucky, kentucky, maine, kentucky, kentucky, kentucky, maine, kentucky, kentucky, kentucky, kentucky, kentucky, kentucky] : kentucky kentucky kentucky kentucky kentucky maine kentucky kentucky kentucky maine kentucky kentucky kentucky kentucky kentucky kentucky 
+
+[idaho, kentucky, mississippi, mississippi, northcarolina, kentucky, virginia, arkansas, georgia, idaho, mississippi, mississippi, missouri, idaho, alabama, mississippi, mississippi, virginia, mississippi, mississippi, idaho, idaho, mississippi, idaho, idaho, arkansas, missouri, alabama, idaho, idaho, mississippi, georgia, northcarolina, idaho, idaho, idaho] : idaho kentucky mississippi mississippi northcarolina kentucky virginia arkansas georgia idaho mississippi mississippi missouri idaho alabama mississippi mississippi virginia mississippi mississippi idaho idaho mississippi idaho idaho arkansas missouri alabama idaho idaho mississippi georgia northcarolina idaho idaho idaho 
+
+[] : 
+
+[indiana, missouri, kentucky, michigan, iowa, wisconsin, michigan, indiana, iowa, wisconsin, kentucky, missouri] : indiana missouri kentucky michigan iowa wisconsin michigan indiana iowa wisconsin kentucky missouri 
+
+[idaho, california, washington, california, idaho, nevada, nevada, washington] : idaho california washington california idaho nevada nevada washington 
+
+[nevada, colorado, louisiana, louisiana, nevada, nevada, tennessee, southdakota, nevada, virginia, montana, tennessee, montana, nevada, virginia, tennessee, nebraska, alabama, nevada, arkansas, alabama, nevada, georgia, nevada, southcarolina, utah, colorado, southdakota, georgia, nevada, idaho, arkansas, nebraska, nevada, southcarolina, tennessee, idaho, utah] : nevada colorado louisiana louisiana nevada nevada tennessee southdakota nevada virginia montana tennessee montana nevada virginia tennessee nebraska alabama nevada arkansas alabama nevada georgia nevada southcarolina utah colorado southdakota georgia nevada idaho arkansas nebraska nevada southcarolina tennessee idaho utah 
+
+[wyoming, massachusetts, newyork, wyoming, wyoming, massachusetts, massachusetts, massachusetts, wyoming, massachusetts, wyoming, newyork, massachusetts, massachusetts, rhodeisland, wyoming, wyoming, wyoming, rhodeisland, wyoming, massachusetts, massachusetts, massachusetts, wyoming, massachusetts, massachusetts, wyoming, wyoming] : wyoming massachusetts newyork wyoming wyoming massachusetts massachusetts massachusetts wyoming massachusetts wyoming newyork massachusetts massachusetts rhodeisland wyoming wyoming wyoming rhodeisland wyoming massachusetts massachusetts massachusetts wyoming massachusetts massachusetts wyoming wyoming 
+
+[california, delaware, maryland, newhampshire, minnesota, montana, arizona, utah, delaware, connecticut, rhodeisland, northdakota, ohio, delaware, delaware, ohio, rhodeisland, minnesota, wyoming, oklahoma, utah, westvirginia, connecticut, delaware, louisiana, newyork, massachusetts, california, newhampshire, newjersey, massachusetts, newyork, vermont, maryland, westvirginia, montana, arkansas, vermont, arizona, arkansas, connecticut, delaware, delaware, iowa, newhampshire, rhodeisland, nebraska, idaho, newhampshire, newjersey, newmexico, newjersey, oregon, newjersey, nebraska, louisiana, wyoming, idaho, delaware, connecticut, vermont, oregon, pennsylvania, newyork, oklahoma, newyork, pennsylvania, rhodeisland, iowa, northdakota, newmexico, vermont] : california delaware maryland newhampshire minnesota montana arizona utah delaware connecticut rhodeisland northdakota ohio delaware delaware ohio rhodeisland minnesota wyoming oklahoma utah westvirginia connecticut delaware louisiana newyork massachusetts california newhampshire newjersey massachusetts newyork vermont maryland westvirginia montana arkansas vermont arizona arkansas connecticut delaware delaware iowa newhampshire rhodeisland nebraska idaho newhampshire newjersey newmexico newjersey oregon newjersey nebraska louisiana wyoming idaho delaware connecticut vermont oregon pennsylvania newyork oklahoma newyork pennsylvania rhodeisland iowa northdakota newmexico vermont 
+
+[michigan, michigan, illinois, minnesota, minnesota, illinois, iowa, iowa] : michigan michigan illinois minnesota minnesota illinois iowa iowa 
+
+[illinois, illinois, illinois, illinois, illinois, illinois, illinois, illinois, illinois, illinois, illinois, illinois] : illinois illinois illinois illinois illinois illinois illinois illinois illinois illinois illinois illinois 
+
+[] : 
+
+[alabama, colorado, colorado, colorado, louisiana, louisiana, colorado, alabama, colorado, louisiana, colorado, alabama, louisiana, alabama, alabama, colorado, colorado, alabama, colorado, louisiana, colorado, colorado, alabama, colorado, colorado, alabama, louisiana, colorado] : alabama colorado colorado colorado louisiana louisiana colorado alabama colorado louisiana colorado alabama louisiana alabama alabama colorado colorado alabama colorado louisiana colorado colorado alabama colorado colorado alabama louisiana colorado 
+
+[california, california, california, california, california, california] : california california california california california california 
+
+[illinois, michigan, mississippi, mississippi, arkansas, ohio, kentucky, texas, michigan, ohio, illinois, texas, kentucky, arkansas] : illinois michigan mississippi mississippi arkansas ohio kentucky texas michigan ohio illinois texas kentucky arkansas 
+
+[] : 
+
+[] : 
+
+[montana, newyork, newyork, oregon, westvirginia, montana, montana, westvirginia, westvirginia, montana, westvirginia, westvirginia, montana, idaho, westvirginia, westvirginia, massachusetts, montana, connecticut, westvirginia, westvirginia, connecticut, montana, montana, oregon, massachusetts, idaho, westvirginia] : montana newyork newyork oregon westvirginia montana montana westvirginia westvirginia montana westvirginia westvirginia montana idaho westvirginia westvirginia massachusetts montana connecticut westvirginia westvirginia connecticut montana montana oregon massachusetts idaho westvirginia 
+
+[illinois, tennessee, tennessee, indiana, virginia, westvirginia, missouri, westvirginia, missouri, ohio, virginia, illinois, indiana, ohio] : illinois tennessee tennessee indiana virginia westvirginia missouri westvirginia missouri ohio virginia illinois indiana ohio 
+
+[] : 
+
+[colorado, nebraska, delaware, newyork, newyork, oklahoma, newyork, delaware, missouri, newyork, missouri, newyork, newyork, newyork, newyork, newyork, newyork, nebraska, pennsylvania, newyork, newyork, pennsylvania, colorado, oklahoma, newyork, newyork] : colorado nebraska delaware newyork newyork oklahoma newyork delaware missouri newyork missouri newyork newyork newyork newyork newyork newyork nebraska pennsylvania newyork newyork pennsylvania colorado oklahoma newyork newyork 
+
+[northcarolina, northcarolina, washington, northcarolina, washington, northcarolina, northcarolina, northcarolina, northcarolina, washington, northcarolina, washington] : northcarolina northcarolina washington northcarolina washington northcarolina northcarolina northcarolina northcarolina washington northcarolina washington 
+
+[florida, oklahoma, georgia, louisiana, tennessee, georgia, tennessee, texas, mississippi, mississippi, texas, mississippi, missouri, oklahoma, tennessee, tennessee, missouri, florida, louisiana, mississippi] : florida oklahoma georgia louisiana tennessee georgia tennessee texas mississippi mississippi texas mississippi missouri oklahoma tennessee tennessee missouri florida louisiana mississippi 
+
+[arkansas, arkansas, arkansas, arkansas, arkansas, arkansas, arkansas, arkansas, arkansas, arkansas, arkansas, arkansas] : arkansas arkansas arkansas arkansas arkansas arkansas arkansas arkansas arkansas arkansas arkansas arkansas 
+
+[florida, florida, kansas, massachusetts, kansas, connecticut, kansas, vermont, connecticut, kansas, kansas, maine, connecticut, florida, kansas, maine, massachusetts, connecticut, kansas, connecticut, florida, kansas, connecticut, vermont] : florida florida kansas massachusetts kansas connecticut kansas vermont connecticut kansas kansas maine connecticut florida kansas maine massachusetts connecticut kansas connecticut florida kansas connecticut vermont 
+
+[michigan, michigan, michigan, newhampshire, michigan, michigan, newyork, newyork, michigan, michigan, michigan, massachusetts, michigan, newhampshire, michigan, massachusetts] : michigan michigan michigan newhampshire michigan michigan newyork newyork michigan michigan michigan massachusetts michigan newhampshire michigan massachusetts 
+
+[nebraska, wyoming, maryland, kansas, newjersey, newmexico, pennsylvania, virginia, virginia, arizona, newmexico, newjersey, virginia, virginia, virginia, virginia, virginia, arizona, oklahoma, pennsylvania, nebraska, utah, virginia, virginia, wyoming, kansas, utah, maryland, oklahoma, virginia] : nebraska wyoming maryland kansas newjersey newmexico pennsylvania virginia virginia arizona newmexico newjersey virginia virginia virginia virginia virginia arizona oklahoma pennsylvania nebraska utah virginia virginia wyoming kansas utah maryland oklahoma virginia 
+
+[utah, maryland, maryland, utah, utah, utah, maryland, maryland, utah, utah, maryland, utah, utah, maryland, utah, maryland, utah, utah, maryland, utah] : utah maryland maryland utah utah utah maryland maryland utah utah maryland utah utah maryland utah maryland utah utah maryland utah 
+
+[illinois, iowa, iowa, oklahoma, kansas, kansas, tennessee, nebraska, oklahoma, kentucky, arkansas, kentucky, tennessee, arkansas, illinois, nebraska] : illinois iowa iowa oklahoma kansas kansas tennessee nebraska oklahoma kentucky arkansas kentucky tennessee arkansas illinois nebraska 
+
+[] : 
+
+[wisconsin, wisconsin, wisconsin, wisconsin, wisconsin, wisconsin, wisconsin, wisconsin] : wisconsin wisconsin wisconsin wisconsin wisconsin wisconsin wisconsin wisconsin 
+
+[indiana, indiana, indiana, indiana, indiana, indiana, indiana, indiana] : indiana indiana indiana indiana indiana indiana indiana indiana 
+
+[colorado, newhampshire, kansas, vermont, newhampshire, iowa, missouri, newhampshire, vermont, vermont, wyoming, kansas, newhampshire, colorado, southdakota, newhampshire, southdakota, vermont, missouri, iowa, wyoming, newhampshire, vermont, vermont] : colorado newhampshire kansas vermont newhampshire iowa missouri newhampshire vermont vermont wyoming kansas newhampshire colorado southdakota newhampshire southdakota vermont missouri iowa wyoming newhampshire vermont vermont 
+
+[delaware, oregon, indiana, tennessee, pennsylvania, illinois, wisconsin, tennessee, oregon, tennessee, tennessee, oregon, wisconsin, tennessee, oregon, tennessee, virginia, indiana, tennessee, tennessee, oregon, pennsylvania, tennessee, tennessee, tennessee, illinois, westvirginia, minnesota, minnesota, oregon, tennessee, tennessee, westvirginia, tennessee, delaware, ohio, oregon, ohio, oregon, tennessee, tennessee, virginia] : delaware oregon indiana tennessee pennsylvania illinois wisconsin tennessee oregon tennessee tennessee oregon wisconsin tennessee oregon tennessee virginia indiana tennessee tennessee oregon pennsylvania tennessee tennessee tennessee illinois westvirginia minnesota minnesota oregon tennessee tennessee westvirginia tennessee delaware ohio oregon ohio oregon tennessee tennessee virginia 
+
+[alabama, georgia, oregon, missouri, southdakota, missouri, southdakota, southdakota, tennessee, northcarolina, utah, illinois, nebraska, kentucky, maryland, iowa, minnesota, wisconsin, northcarolina, oregon, tennessee, westvirginia, wisconsin, georgia, montana, washington, illinois, southdakota, michigan, michigan, montana, nevada, minnesota, northdakota, kentucky, westvirginia, alabama, nevada, wyoming, minnesota, iowa, wisconsin, northdakota, minnesota, montana, nebraska, montana, southdakota, southdakota, utah, maryland, washington, wisconsin, wyoming] : alabama georgia oregon missouri southdakota missouri southdakota southdakota tennessee northcarolina utah illinois nebraska kentucky maryland iowa minnesota wisconsin northcarolina oregon tennessee westvirginia wisconsin georgia montana washington illinois southdakota michigan michigan montana nevada minnesota northdakota kentucky westvirginia alabama nevada wyoming minnesota iowa wisconsin northdakota minnesota montana nebraska montana southdakota southdakota utah maryland washington wisconsin wyoming 
+
+[arizona, nevada, nevada, idaho, arizona, newmexico, colorado, wyoming, colorado, newmexico, idaho, wyoming] : arizona nevada nevada idaho arizona newmexico colorado wyoming colorado newmexico idaho wyoming 
+
+[nebraska, georgia, southdakota, nebraska, rhodeisland, ohio, ohio, rhodeisland, wyoming, ohio, nebraska, wyoming, nebraska, ohio, ohio, georgia, southdakota, nebraska, idaho, nebraska, rhodeisland, idaho, nebraska, nebraska, ohio, rhodeisland, northcarolina, nebraska, rhodeisland, ohio, ohio, nebraska, northdakota, nebraska, nebraska, northcarolina, northdakota, ohio, rhodeisland, ohio] : nebraska georgia southdakota nebraska rhodeisland ohio ohio rhodeisland wyoming ohio nebraska wyoming nebraska ohio ohio georgia southdakota nebraska idaho nebraska rhodeisland idaho nebraska nebraska ohio rhodeisland northcarolina nebraska rhodeisland ohio ohio nebraska northdakota nebraska nebraska northcarolina northdakota ohio rhodeisland ohio 
+
+

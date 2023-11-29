@@ -3,6 +3,14 @@ import java.util.*;
 
 public class driver2 {
 
+    /**
+     * Main test driver for lab 9 / undirected graph
+     * Data file: lab9in.txt
+     * 
+     * 
+     * @param args
+     * @throws FileNotFoundException
+     */
     public static void main(String[] args) throws FileNotFoundException{
 
         Scanner sc = new Scanner( new File("lab9in.txt"));

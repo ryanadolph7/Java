@@ -1,0 +1,51 @@
+Distance from Montana to Minnesota: 2
+Montana - SouthDakota - Minnesota - 
+
+Distance from Montana to Oregon: 2
+Montana - Idaho - Oregon - 
+
+Distance from Montana to NewMexico: 3
+Montana - Wyoming - Colorado - NewMexico - 
+
+Distance from Montana to Utah: 2
+Montana - Wyoming - Utah - 
+
+Distance from Montana to Missouri: 3
+Montana - SouthDakota - Nebraska - Missouri - 
+
+Distance from Montana to Oklahoma: 3
+Montana - Wyoming - Colorado - Oklahoma - 
+
+Distance from Montana to Kansas: 3
+Montana - SouthDakota - Nebraska - Kansas - 
+
+Distance from Montana to Iowa: 2
+Montana - SouthDakota - Iowa - 
+
+Distance from Montana to California: 3
+Montana - Idaho - Oregon - California - 
+
+Distance from Montana to Michigan: 3
+Montana - SouthDakota - Minnesota - Michigan - 
+
+Distance from Montana to Nevada: 2
+Montana - Idaho - Nevada - 
+
+Distance from Montana to Arizona: 3
+Montana - Wyoming - Colorado - Arizona - 
+
+Distance from Montana to Nebraska: 2
+Montana - SouthDakota - Nebraska - 
+
+Distance from Montana to Wisconsin: 3
+Montana - SouthDakota - Minnesota - Wisconsin - 
+
+Distance from Montana to Washington: 2
+Montana - Idaho - Washington - 
+
+Distance from Montana to Colorado: 2
+Montana - Wyoming - Colorado - 
+
+Distance from Montana to Illinois: 3
+Montana - SouthDakota - Iowa - Illinois - 
+

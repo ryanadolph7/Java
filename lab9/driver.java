@@ -4,6 +4,8 @@ import java.util.*;
 public class driver {
 
 
+    // driver to test changes made in graph.java
+    // not supposed to be used as test case file
     public static void main(String[] args) throws FileNotFoundException {
 
         Scanner sc = new Scanner( new File("lab9in.txt"));
