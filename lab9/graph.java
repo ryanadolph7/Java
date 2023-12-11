@@ -124,9 +124,7 @@ public class graph {
     // validates the vertices then adds each Vertex to the adjacent vertex's edge set
     public void addEdge(int v, int e) {
         validateVertex(v);
-        validateVertex(e);
         table[v].add(e);
-        table[e].add(v);
         edges++;
     }
 

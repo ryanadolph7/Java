@@ -1,0 +1,9 @@
+6
+7
+Seattle LosAngeles 70
+Seattle NewYork 180
+LosAngeles Denver 90
+LosAngeles Atlanta 120
+Denver Atlanta 45
+Atlanta NewYork 70
+Atlanta Miami 50
